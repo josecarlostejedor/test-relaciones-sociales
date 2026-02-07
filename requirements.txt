@@ -1,7 +1,0 @@
-
-streamlit==1.32.0
-google-generativeai
-python-docx
-pandas
-openpyxl
-requests
